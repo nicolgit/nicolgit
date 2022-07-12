@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**nicolgit/nicolgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there, I'm NicolD! 👋
 
 - 🔭 I’m currently working in Microsoft on Azure
 - 🌱 I’m currently learning Azure
