@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on in Microsoft on Azure
+- 🔭 I’m currently working in Microsoft on Azure
 - 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on Azure
 - 🤔 I’m looking for help with Azure
