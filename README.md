@@ -1,10 +1,10 @@
 Hi there, I'm NicolD! 👋
 
-- 🔭 I’m currently working in Microsoft on Azure
+- 🔭 I’m currently working in Microsoft on Azure as Cloud Solution Architect
+- 🌍 I'm currently living in Italy
 - 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on Azure
-- 🤔 I’m looking for help with Azure
-- 💬 Ask me about Azure
+- 💬 ... 🤔 I can help you on Azure and looking for help on Azure
 - 📫 How to reach me: <https://nicolgit.github.io/>
 - 😄 Pronouns: He|Him
 - ⚡ Fun fact: ?!?!?!
